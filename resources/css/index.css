@@ -35,3 +35,58 @@ a {
 
 
  }
+ .center {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 5%;
+     height: 5%;
+ }
+
+ .middle_part  h2 {
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+
+ }
+ .middle_part h3 {
+   text-align: center;
+   font-size: 23px;
+   font-weight: bold;
+
+ }
+ .middle_part h4 {
+   text-align: center;
+   font-size: 14px;
+   font-weight:lighter;
+
+ }
+
+ .bottom_part {
+   background: url("../the-flatiron-building.png") 100% 100% no-repeat;
+   height: 25px;
+   margin-right: 50px ;
+   margin-left: 50px;
+
+ }
+ .bottom_part h1 {
+   font-size: 23px;
+   font-weight: bold;
+   color: white;
+ }
+ .bottom_part h2 {
+   font-size: 23px;
+   font-weight: bold;
+   color: black;
+   text-align: center;
+ }
+
+ .bottom_part h4 {
+   text-align: center;
+   font-size: 14px;
+   font-weight:lighter;
+ }
+
+ footer {
+   background: url("../the-flatiron-building.png") 100% 100% no-repeat;
+ }
